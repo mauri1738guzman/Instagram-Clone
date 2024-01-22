@@ -5,7 +5,7 @@ import AuthPage from "./pages/AuthPage/AuthPage";
 import PageLayout from "./Layouts/PageLayout/PageLayout";
 function App() {
 
-//-- Time of video: 43:35
+//-- Time of video: 56
 //-- URL: https://www.youtube.com/watch?v=RMScMwY2B6Q
 //-- running app: run command 
 //-- 1) npm run dev
