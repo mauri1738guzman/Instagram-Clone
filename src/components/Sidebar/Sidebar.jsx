@@ -114,7 +114,8 @@ const Sidebar = () => {
       p={2}
       w={{base: 10, md: "full"}}
       justifyContent={{base:"center", md:"flex-start"}}
-      mt={'auto'}
+      //-- erases auto when screen is smaller
+      mt={'auto'} 
 
       
     >
